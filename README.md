@@ -6,12 +6,12 @@
 
 ## 🧪 Список лабораторных работ
 
-### [Лаба-1: Анализ Велопроката в Сеуле(1)](./lab1/)  
-### [Лаба-2: Анализ Велопроката в Сеуле(2)](./lab2/)  
-### [Лаба-3: StackSample(1) ](./lab3/)  
-### [Лаба-4: StackSample(2)](./lab4/)  
-### [Лаба-5: StackSample(3)](./lab5/)
-### [Лаба-6: StackSample(4)](./lab-6/)  
+### [Лаба 1: Анализ велопроката в Сеуле (NumPy)](./lab-01/README.md)
+### [Лаба 2: Анализ велопроката в Сеуле (временные ряды)](./lab-02/README.md)
+### [Лаба 3: Stack Overflow (подготовка данных)](./lab-03/README.md)
+### [Лаба 4: Stack Overflow (поиск BM25)](./lab-04/README.md)
+### [Лаба 5: Stack Overflow (векторный поиск)](./lab-05/README.md)
+### [Лаба 6: Stack Overflow (RAG и Gemini)](./lab-06/README.md)
 
 
 
